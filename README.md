@@ -5,10 +5,16 @@ Esse repositório contará com uma pasta para cada lista de exercicios obrigató
 
  - **Estrutura básica**
 
- <img src="./estrutura.png" alt="estrutura do projeto" width="200"/>
+ <img src="./estrutura.png" alt="estrutura do projeto" width="350"/>
 
-*Pasta geral dos exercicios +praTi **->** Pasta com a lista de exercicios 1 - Estudando estruturas básicas **->** 1 arquivo .js para cada exercicio e a lista em pdf*
+**OBS: Ao clonar o repositóorio certfique - se de rodar o comando:** 
+```
+npm install
+```
+**Este comando permite instalar as dependencias do projeto** 
 
-OBS: Ao clonar o repositóorio certfique - se de rodar o comando *npm install* para instalar todas as dependencias do projeto e de ter uma extensão que permita a leitura do pdf na sua IDE para visualizar a lista de questões. Caso não seja possivel, pode - se abrir o arquivo no leitor de pdf padrão do seu sistema operacional.
+**No VSCode faça a instalação de uma extensão que permita a leitura do pdf com a lista de questões. Recomenda-se o [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf).** 
+
+**Caso não seja possivel, pode - se abrir o arquivo no leitor de pdf padrão do seu sistema operacional.**
 
 
