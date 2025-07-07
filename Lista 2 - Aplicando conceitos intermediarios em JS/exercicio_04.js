@@ -14,3 +14,4 @@ function fatorial(num){
   }
 }
 
+//console.log(fatorial(5))

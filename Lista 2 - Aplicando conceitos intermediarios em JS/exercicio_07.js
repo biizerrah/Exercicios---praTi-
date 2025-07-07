@@ -16,7 +16,6 @@ const produtos = [
   { nome: "Caixa de Som Bluetooth", preco: 189.00 }
 ]
 
-let lista = produtos.sort((a, b) => a.preco - b.preco)
-
-  
+let lista = produtos.sort((a, b) => a.preco - b.preco) 
+console.log(lista) 
   
